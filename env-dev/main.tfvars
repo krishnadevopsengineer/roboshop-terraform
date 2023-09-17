@@ -42,4 +42,4 @@ components = {
 }
 
 security_groups = [ "sg-06e8755bb8e15ec5f" ]
-zone_id" = "Z097721113XEYK6TSSVN8"
+zone_id = "Z097721113XEYK6TSSVN8"
